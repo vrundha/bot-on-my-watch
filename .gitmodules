@@ -1,3 +1,0 @@
-[submodule "SimCSE"]
-	path = SimCSE
-	url = https://github.com/princeton-nlp/SimCSE.git
